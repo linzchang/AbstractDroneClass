@@ -1,0 +1,7 @@
+\\mi\dfs\Users\LChang\Desktop\Assessments\Assessment 4\AbstractDroneClassApp\AbstractDroneClassApp\bin\Debug\AbstractDroneClassApp.exe.config
+\\mi\dfs\Users\LChang\Desktop\Assessments\Assessment 4\AbstractDroneClassApp\AbstractDroneClassApp\bin\Debug\AbstractDroneClassApp.exe
+\\mi\dfs\Users\LChang\Desktop\Assessments\Assessment 4\AbstractDroneClassApp\AbstractDroneClassApp\bin\Debug\AbstractDroneClassApp.pdb
+\\mi\dfs\Users\LChang\Desktop\Assessments\Assessment 4\AbstractDroneClassApp\AbstractDroneClassApp\obj\Debug\AbstractDroneClassApp.csprojAssemblyReference.cache
+\\mi\dfs\Users\LChang\Desktop\Assessments\Assessment 4\AbstractDroneClassApp\AbstractDroneClassApp\obj\Debug\AbstractDroneClassApp.csproj.CoreCompileInputs.cache
+\\mi\dfs\Users\LChang\Desktop\Assessments\Assessment 4\AbstractDroneClassApp\AbstractDroneClassApp\obj\Debug\AbstractDroneClassApp.exe
+\\mi\dfs\Users\LChang\Desktop\Assessments\Assessment 4\AbstractDroneClassApp\AbstractDroneClassApp\obj\Debug\AbstractDroneClassApp.pdb
